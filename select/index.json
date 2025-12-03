@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Week End",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-03T05:53:51.732315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "3 Day Week-End",
+      "artist": "Etienne de Crécy",
+      "has_synced": false,
+      "path": "select/01_3_Day_Week-End_Etienne_de_Crécy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Week-End",
+      "artist": "Pizzicato Five",
+      "has_synced": false,
+      "path": "select/02_Week-End_Pizzicato_Five.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Week-end à Rome",
+      "artist": "Étienne Daho",
+      "has_synced": true,
+      "path": "select/03_Week-end_à_Rome_Étienne_Daho.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Week-end à Rome",
+      "artist": "Nouvelle Vague feat. Vanessa Paradis",
+      "has_synced": true,
+      "path": "select/04_Week-end_à_Rome_Nouvelle_Vague_feat._Vanessa_Paradis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Week-End A Rome",
+      "artist": "Nouvelle Vague feat. Vanessa Paradis",
+      "has_synced": true,
+      "path": "select/05_Week-End_A_Rome_Nouvelle_Vague_feat._Vanessa_Paradis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Week End",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/06_Week_End_星野源.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Week-End",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/07_A_Week-End_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Week End",
+      "artist": "星野 源",
+      "has_synced": true,
+      "path": "select/08_Week_End_星野_源.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Week-end of Sin",
+      "artist": "Rinôçerôse",
+      "has_synced": true,
+      "path": "select/09_Week-end_of_Sin_Rinôçerôse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Week-end of sin",
+      "artist": "RINÔÇÉRÔSE",
+      "has_synced": true,
+      "path": "select/10_Week-end_of_sin_RINÔÇÉRÔSE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Week End (2007 Remaster)",
+      "artist": "X JAPAN (X)",
+      "has_synced": true,
+      "path": "select/11_Week_End_(2007_Remaster)_X_JAPAN_(X).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Week End",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/12_Week_End_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Week-End à Rome",
+      "artist": "Etienne Daho",
+      "has_synced": true,
+      "path": "select/13_Week-End_à_Rome_Etienne_Daho.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Week-End a Rome (ft. Vanessa Paradis)",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/14_Week-End_a_Rome_(ft._Vanessa_Paradis)_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "At the Week End",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/15_At_the_Week_End_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "AT THE WEEK END",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/16_AT_THE_WEEK_END_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Week‐end à Rome",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/17_Week‐end_à_Rome_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Week-end à Rome - 2014 Remastered",
+      "artist": "Étienne Daho",
+      "has_synced": true,
+      "path": "select/18_Week-end_à_Rome_-_2014_Remastered_Étienne_Daho.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Week-end à Rome",
+      "artist": "Étienne Daho",
+      "has_synced": true,
+      "path": "select/19_Week-end_à_Rome_Étienne_Daho.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Week-End",
+      "artist": "Adé",
+      "has_synced": true,
+      "path": "select/20_Week-End_Adé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Week End",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Week_End_星野源.txt"
+    }
+  ]
+}
